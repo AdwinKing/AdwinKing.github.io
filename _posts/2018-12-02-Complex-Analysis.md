@@ -17,6 +17,7 @@ title: Outline of Complex Analysis
 ## Residue Theory
  + Zeros and poles
  + Residue formula
+ + Contour integration
  + Applications
 
 ## Complex Logarithm
