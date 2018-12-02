@@ -5,32 +5,32 @@ title: Outline of Complex Analysis
 
 ---
 ## Preliminaries
-... *Convergence
-... *Holomorphic, Meromorphic
-... *Integration along curves
+ + Convergence
+ + Holomorphic, Meromorphic
+ + Integration along curves
 
 ## Cauchy's Theorem and Its Applications
-... *Cauchy's Theorem
-... *Cauchy's integral formulas
-... *Applications
+ + Cauchy's Theorem
+ + Cauchy's integral formulas
+ + Applications
 
 ## Residue Theory
-... *Zeros and poles
-... *Residue formula
-... *Applications
+ + Zeros and poles
+ + Residue formula
+ + Applications
 
 ## Complex Logarithm
-... *Argument principle
-... *Branch cuts
+ + Argument principle
+ + Branch cuts
 
 ## Entire Functions
-... *Jensen's formula
-... *Infinite products
+ + Jensen's formula
+ + Infinite products
 
 ## Gamma and Zeta Functions
-... *Gamma function
-... *Zeta function
-... *Prime number theorem
+ + Gamma function
+ + Zeta function
+ + Prime number theorem
 
 ## Conformal mappings
 
