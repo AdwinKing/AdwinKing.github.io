@@ -3,7 +3,11 @@ layout: post
 title: Outline of Complex Analysis
 ---
 
+
+[Backup](http://math.mit.edu/~jorloff/18.04/notes/)
+
 ---
+
 ## Preliminaries
  + Convergence
  + Holomorphic, Meromorphic
